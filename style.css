@@ -1,0 +1,13 @@
+html,
+body,
+#root
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    margin: 0;
+    height: 100%;
+    background: black;
+    overflow: hidden;
+}
